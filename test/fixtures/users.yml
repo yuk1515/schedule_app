@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  star_daydate: 2021-07-15
+  fin_day: 2021-07-15
+  all_day_string: MyString
+  memo: MyString
+
+two:
+  title: MyString
+  star_daydate: 2021-07-15
+  fin_day: 2021-07-15
+  all_day_string: MyString
+  memo: MyString
